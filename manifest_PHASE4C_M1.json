@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "catalogueId": "solardesign-pro-equipment",
+  "catalogueRevision": "SDP-CAT-2026.08.20-M1",
+  "updatedAt": "2026-08-20T22:50:00.000Z",
+  "downloadUrl": "https://gaadriad-sys.github.io/solardesign-equipment/equipment/stable/catalogue-SDP-CAT-2026.08.20-M1.json",
+  "moduleCount": 26,
+  "inverterCount": 40,
+  "contentLengthBytes": 64984,
+  "sha256": "b45973751f1ce2dd21ed9a413932df79ae1290ca4c47449cc023a6c3db9ecb52",
+  "releaseNotes": "SolarDesign Pro Phase 4B verified catalogue expansion. Adds JinkoSolar Tiger Neo, Fronius Primo GEN24 and Sungrow RS families while preserving the complete existing active catalogue."
+}
