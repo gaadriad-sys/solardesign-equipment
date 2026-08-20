@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "catalogueId": "solardesign-pro-equipment",
+  "catalogueRevision": "SDP-CAT-2026.08.20-K1",
+  "updatedAt": "2026-08-20T18:38:00.000Z",
+  "downloadUrl": "https://updates.example.invalid/equipment/stable/catalogue-SDP-CAT-2026.08.20-K1.json",
+  "moduleCount": 21,
+  "inverterCount": 32,
+  "contentLengthBytes": 50978,
+  "sha256": "66a9bbb1d5667eb42794bddb8c6ccf5fcda3086c16e7e5bcfdc86885bd5517d4",
+  "releaseNotes": "First SolarDesign Pro hosted equipment catalogue release package. Uses the Phase 3F active catalogue content; endpoint URL is a placeholder and must be replaced before deployment."
+}
