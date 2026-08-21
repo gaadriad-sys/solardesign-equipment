@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
   "catalogueId": "solardesign-pro-equipment",
-  "catalogueRevision": "SDP-CAT-2026.08.21-U1",
-  "updatedAt": "2026-08-21T08:55:00.000Z",
-  "downloadUrl": "https://gaadriad-sys.github.io/solardesign-equipment/equipment/stable/catalogue-SDP-CAT-2026.08.21-U1.json",
-  "moduleCount": 48,
-  "inverterCount": 64,
-  "contentLengthBytes": 111882,
-  "sha256": "047589eaf7819f301295360a02eb062ecff3255f570d94abe7dbd00e7b55659e",
-  "releaseNotes": "SolarDesign Pro Phase 4N hosted equipment release. Carries the performance-locked T1 catalogue forward and includes the latest Qcells Q.TRON BLK M-G2+ and Growatt MIN TL-X additions."
+  "catalogueRevision": "SDP-CAT-2026.08.21-W1",
+  "updatedAt": "2026-08-21T09:15:00.000Z",
+  "downloadUrl": "https://gaadriad-sys.github.io/solardesign-equipment/equipment/stable/catalogue-SDP-CAT-2026.08.21-W1.json",
+  "moduleCount": 98,
+  "inverterCount": 98,
+  "contentLengthBytes": 194858,
+  "sha256": "a858d4e5cccdcb8929209968dc70c69446b0647f2addc617582ad1578a23d24d",
+  "releaseNotes": "SolarDesign Pro Phase 5B hosted equipment release. Carries the performance-locked V1 catalogue forward and publishes the ~200-product milestone catalogue."
 }
