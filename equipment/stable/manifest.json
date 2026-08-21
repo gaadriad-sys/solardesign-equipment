@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
   "catalogueId": "solardesign-pro-equipment",
-  "catalogueRevision": "SDP-CAT-2026.08.21-W1",
-  "updatedAt": "2026-08-21T09:15:00.000Z",
-  "downloadUrl": "https://gaadriad-sys.github.io/solardesign-equipment/equipment/stable/catalogue-SDP-CAT-2026.08.21-W1.json",
-  "moduleCount": 98,
-  "inverterCount": 98,
-  "contentLengthBytes": 194858,
-  "sha256": "a858d4e5cccdcb8929209968dc70c69446b0647f2addc617582ad1578a23d24d",
-  "releaseNotes": "SolarDesign Pro Phase 5B hosted equipment release. Carries the performance-locked V1 catalogue forward and publishes the ~200-product milestone catalogue."
+  "catalogueRevision": "SDP-CAT-2026.08.21-Z1",
+  "updatedAt": "2026-08-21T21:40:00.000Z",
+  "downloadUrl": "https://gaadriad-sys.github.io/solardesign-equipment/equipment/stable/catalogue-SDP-CAT-2026.08.21-Z1.json",
+  "moduleCount": 142,
+  "inverterCount": 161,
+  "contentLengthBytes": 306721,
+  "sha256": "51a39f93b3baf75c577f11a4a74060b1bb92e167426b374250c64fe45f5e5e09",
+  "releaseNotes": "SolarDesign Pro Phase 5F hosted equipment release. Publishes the performance-locked 301-visible-product milestone catalogue."
 }
