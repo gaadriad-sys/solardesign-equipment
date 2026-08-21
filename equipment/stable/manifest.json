@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
   "catalogueId": "solardesign-pro-equipment",
-  "catalogueRevision": "SDP-CAT-2026.08.21-Q1",
-  "updatedAt": "2026-08-21T08:45:00.000Z",
-  "downloadUrl": "https://gaadriad-sys.github.io/solardesign-equipment/equipment/stable/catalogue-SDP-CAT-2026.08.21-Q1.json",
-  "moduleCount": 36,
-  "inverterCount": 52,
-  "contentLengthBytes": 87835,
-  "sha256": "7d1742153898c8ff3b2973c586edcfb34b44039baee1d19a1cf8550ff0f9fb43",
-  "releaseNotes": "SolarDesign Pro Phase 4J hosted equipment release. Carries the performance-locked P1 catalogue forward and includes the latest Canadian Solar TOPHiKu6 and Solis S6 additions."
+  "catalogueRevision": "SDP-CAT-2026.08.21-S1",
+  "updatedAt": "2026-08-21T08:50:00.000Z",
+  "downloadUrl": "https://gaadriad-sys.github.io/solardesign-equipment/equipment/stable/catalogue-SDP-CAT-2026.08.21-S1.json",
+  "moduleCount": 44,
+  "inverterCount": 57,
+  "contentLengthBytes": 100920,
+  "sha256": "b0ec3c452c1cd43847d1385ff3a17341cfc042759a86cee911ad93e21a200127",
+  "releaseNotes": "SolarDesign Pro Phase 4L hosted equipment release. Carries the performance-locked R1 catalogue forward and includes the latest AIKO Neostar 2P and Fox ESS H1-G2 additions."
 }
